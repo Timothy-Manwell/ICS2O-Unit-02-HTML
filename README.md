@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/Timothy-manwell/ICS2O-Unit-02-HTML)](https://repl.it/github/<OWNER>/<REPOSITORY>)
 
-This site can be found at: [https://https://timothy-manwell.github.io/ICS2O-Unit-02-HTML/](https://<OWNER>.github.io/<REPOSITORY>)
+This site can be found at: [https://timothy-manwell.github.io/ICS2O-Unit-02-HTML/](https://<OWNER>.github.io/<REPOSITORY>)
